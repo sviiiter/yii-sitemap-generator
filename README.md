@@ -30,7 +30,7 @@ Projects, products, news e.t.c. It is possible to create extractor tree as subtr
   }
 ```
 
-###- create concrete generator with converting location method:
+### - create concrete generator with converting location method:
 
 ```
 
@@ -51,7 +51,7 @@ Projects, products, news e.t.c. It is possible to create extractor tree as subtr
   
 ```
 
-###- in your clients code (kinda console command):
+### - in your clients code (kinda console command):
 
 
 ```
